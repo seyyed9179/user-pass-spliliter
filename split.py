@@ -10,7 +10,7 @@ open_file = open(get_file_name,'r')
 users_txt_file_creat= open('users.txt','x')
 passes_txt_file__creat= open('passes.txt','x')
 
-# Variable to append users and passwords to end of files
+# Variables to append users and passwords to end of files
 user= open('users.txt','a')
 passes= open('passes.txt','a')
 
