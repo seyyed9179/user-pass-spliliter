@@ -6,4 +6,4 @@ It can be used for bruteforce with burpsuite and somethings like it.
 
 # usage:
 
-Just download split.py file and run it with: $ python3 split.py
+Just download split.py file and run it with: $||python3 split.py||
