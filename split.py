@@ -3,7 +3,7 @@
 # It can be used for bruteforce with burpsuite and somethings like it.
 
 # Get file name from user and open it
-get_file_name = input('*************************************\nPlease write your file name or addres\n(e.g: creds.txt or /home/user/Desktop/creds.txt )\n: ')
+get_file_name = input('*************************************\nPlease write your file name or address\n(e.g: creds.txt or /home/user/Desktop/creds.txt )\n: ')
 open_file = open(get_file_name,'r')
 
 # Creat users.txt and passes.txt files
